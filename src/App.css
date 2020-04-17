@@ -1,3 +1,43 @@
+
+/* #count-container{
+  border: saddlebrown solid;
+  width: 400px;
+  height: 400px;
+  margin-left: 35%;
+  margin-top: 5%;
+  text-align: center;
+  color: white;
+  background: rgb(245, 80, 231);
+} */
+/* button{
+  width: 20%;
+  padding: 2%;
+} */
+.card{
+  width: 450px;
+  height: 400px;
+  text-align: center;
+  margin-left: 15%;
+}
+h1{
+  color: rgb(158, 89, 190);
+}
+button:hover{
+  background:rgba(114, 5, 109, 0.527)
+}
+span{
+  position: absolute;
+  margin-top: 10%;
+  font-size: 60pt;
+  color: rgb(158, 89, 190);
+  transform: translate(-70px);
+}
+
+
+
+
+
+/* Old
 .App {
   text-align: center;
 }
@@ -35,4 +75,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

@@ -39,7 +39,7 @@ class Counter extends React.Component {
     render(){
         return(
             <div className='card bg-light'>
-                <h1>Niecey's Counter</h1>
+                <h1>Counter</h1>
                 <div className='card-body'>
                     <button type="button" className="btn btn-lg" onClick={this.increment}>+</button>
               

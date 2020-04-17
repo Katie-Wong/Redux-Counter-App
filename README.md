@@ -61,3 +61,4 @@ Step 6: git push heroku master (pushes your appliction and deploys it to the Her
 ## Deployed Link 
 
  https://redux-incrementingr-app.herokuapp.com/
+# react-redux-counter-example
